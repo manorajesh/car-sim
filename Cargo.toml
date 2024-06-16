@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 gilrs = "0.10.7"
 macroquad = "0.4.8"
+rand = "0.8.5"
